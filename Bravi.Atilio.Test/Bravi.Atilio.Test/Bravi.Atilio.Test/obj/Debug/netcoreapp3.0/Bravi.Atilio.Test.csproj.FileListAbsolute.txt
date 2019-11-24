@@ -1,0 +1,11 @@
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\bin\Debug\netcoreapp3.0\Bravi.Atilio.Test.exe
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\bin\Debug\netcoreapp3.0\Bravi.Atilio.Test.deps.json
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\bin\Debug\netcoreapp3.0\Bravi.Atilio.Test.runtimeconfig.json
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\bin\Debug\netcoreapp3.0\Bravi.Atilio.Test.runtimeconfig.dev.json
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\bin\Debug\netcoreapp3.0\Bravi.Atilio.Test.dll
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\bin\Debug\netcoreapp3.0\Bravi.Atilio.Test.pdb
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\obj\Debug\netcoreapp3.0\Bravi.Atilio.Test.csprojAssemblyReference.cache
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\obj\Debug\netcoreapp3.0\Bravi.Atilio.Test.AssemblyInfoInputs.cache
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\obj\Debug\netcoreapp3.0\Bravi.Atilio.Test.AssemblyInfo.cs
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\obj\Debug\netcoreapp3.0\Bravi.Atilio.Test.dll
+F:\BRAVI\Bravi.Atilio.Test\Bravi.Atilio.Test\Bravi.Atilio.Test\obj\Debug\netcoreapp3.0\Bravi.Atilio.Test.pdb

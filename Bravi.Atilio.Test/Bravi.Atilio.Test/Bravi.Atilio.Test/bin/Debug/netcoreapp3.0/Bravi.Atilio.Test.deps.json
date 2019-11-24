@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Bravi.Atilio.Test/1.0.0": {
+        "runtime": {
+          "Bravi.Atilio.Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bravi.Atilio.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
